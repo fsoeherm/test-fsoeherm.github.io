@@ -53,7 +53,7 @@ table {
 
 
 
-/* ---------- Hello, my name is Francisca Soeherman and this is the beginning of my CONTACT PAGE CSS for 201 Digital Publishing NOvember 2020 ------------ */
+/* ---------- Hello, my name is Francisca Soeherman and this is the beginning of my CONTACT PAGE CSS for 201 Digital Publishing November 2020 ------------ */
 
 html, body {
   height: 100%;
@@ -69,9 +69,9 @@ html, body {
 }
 
 .bottom {
-    width: auto;
-	padding: 5px 7px 22px 7px;
-    margin: 0px;
+    width: 65%;
+	padding: .5% 2% 2% 2%;
+    margin: 0px auto;
  	background: rgba(208, 188, 166, .85); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
@@ -79,7 +79,7 @@ html, body {
 .center {
     width: 65%;
 	padding: 2%;
-    margin: 110px auto 0px auto;
+    margin: 5% auto 0px auto;
  	background: rgba(20, 80, 120, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
@@ -91,9 +91,9 @@ html, body {
 }
 
 h1 {
-	font-family: gaultier, sans-serif;
+    font-family: questa-grande,serif;
     font-weight: 400;
-    font-style: normal;
+    font-style: italic;
 	font-size: 2em;
     margin: 0px auto 10px auto;
     color: #fff;
