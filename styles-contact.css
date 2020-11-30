@@ -71,9 +71,16 @@ html, body {
 .bottom {
     width: 65%;
 	padding: .5% 2% 2% 2%;
-    margin: 0px auto;
- 	background: rgba(208, 188, 166, .85); /*this uses opacity of 75% for the background color*/
+    margin: 0px auto 5% auto;
+ 	background: rgba(208, 188, 166, .85); /*this uses opacity of 85% for the background color*/
 	text-align: center;
+}
+
+.invisible{
+    width: 100%;
+    padding: .5%;
+    background: rgba(200, 200, 200, .0);
+    text-align: center;
 }
 
 .center {
@@ -100,7 +107,7 @@ h1 {
 }
 
 h2 {
-    font-family: gaultier, sans-serif;
+    font-family: quasimado-2, sans-serif;
     font-weight: 400;
     font-style: normal;
 	font-size: 1.5em;
@@ -111,7 +118,7 @@ h2 {
 }
 
 p {
-	font-family: gaultier, sans-serif;
+	font-family: quasimado-2, sans-serif;
     font-weight: 400;
     font-style: normal;
 	font-size: 1.2em;
